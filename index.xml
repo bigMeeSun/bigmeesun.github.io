@@ -1,0 +1,51 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>My New Hugo Site</title>
+   <link>https://github.com/bigMeeSun/bigmeesun.github.io.git/</link>
+   <description>Recent content on My New Hugo Site</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   <lastBuildDate>Sat, 27 Jun 2020 17:26:22 +0800</lastBuildDate>
+   
+       <atom:link href="https://github.com/bigMeeSun/bigmeesun.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Blog</title>
+       <link>https://github.com/bigMeeSun/bigmeesun.github.io.git/post/blog/</link>
+       <pubDate>Sat, 27 Jun 2020 17:26:22 +0800</pubDate>
+       
+       <guid>https://github.com/bigMeeSun/bigmeesun.github.io.git/post/blog/</guid>
+       <description>&lt;h1 id=&#34;the-go-programming-language&#34;&gt;The Go Programming Language&lt;/h1&gt;
+&lt;p&gt;Go is an open source programming language that makes it easy to build simple,
+reliable, and efficient software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;doc/gopher/fiveyears.jpg&#34; alt=&#34;Gopher image&#34;&gt;
+&lt;em&gt;Gopher image by &lt;a href=&#34;https://reneefrench.blogspot.com/&#34;&gt;Renee French&lt;/a&gt;, licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative Commons 3.0 Attributions license&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our canonical Git repository is located at &lt;a href=&#34;https://go.googlesource.com/go&#34;&gt;https://go.googlesource.com/go&lt;/a&gt;.
+There is a mirror of the repository at &lt;a href=&#34;https://github.com/golang/go&#34;&gt;https://github.com/golang/go&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unless otherwise noted, the Go source files are distributed under the
+BSD-style license found in the LICENSE file.&lt;/p&gt;
+&lt;h3 id=&#34;download-and-install&#34;&gt;Download and Install&lt;/h3&gt;
+&lt;h4 id=&#34;binary-distributions&#34;&gt;Binary Distributions&lt;/h4&gt;
+&lt;p&gt;Official binary distributions are available at &lt;a href=&#34;https://golang.org/dl/&#34;&gt;https://golang.org/dl/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After downloading a binary release, visit &lt;a href=&#34;https://golang.org/doc/install&#34;&gt;https://golang.org/doc/install&lt;/a&gt;
+or load &lt;a href=&#34;./doc/install.html&#34;&gt;doc/install.html&lt;/a&gt; in your web browser for installation
+instructions.&lt;/p&gt;
+&lt;h4 id=&#34;install-from-source&#34;&gt;Install From Source&lt;/h4&gt;
+&lt;p&gt;If a binary distribution is not available for your combination of
+operating system and architecture, visit
+&lt;a href=&#34;https://golang.org/doc/install/source&#34;&gt;https://golang.org/doc/install/source&lt;/a&gt; or load &lt;a href=&#34;./doc/install-source.html&#34;&gt;doc/install-source.html&lt;/a&gt;
+in your web browser for source installation instructions.&lt;/p&gt;
+&lt;h3 id=&#34;contributing&#34;&gt;Contributing&lt;/h3&gt;
+&lt;p&gt;Go is the work of thousands of contributors. We appreciate your help!&lt;/p&gt;
+&lt;p&gt;To contribute, please read the contribution guidelines:
+&lt;a href=&#34;https://golang.org/doc/contribute.html&#34;&gt;https://golang.org/doc/contribute.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note that the Go project uses the issue tracker for bug reports and
+proposals only. See &lt;a href=&#34;https://golang.org/wiki/Questions&#34;&gt;https://golang.org/wiki/Questions&lt;/a&gt; for a list of
+places to ask questions about the Go language.&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
